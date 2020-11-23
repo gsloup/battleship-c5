@@ -1,7 +1,7 @@
 # Battleship
 
 # About
-This application was the final group project for Midland Code Acadmeny
+This application was the final group project for Midland Code Academy.  More changes might be made with time, to add more features and clean up code base.
 
 Link to the hosted project: http://midland-battleship.herokuapp.com/ 
 
